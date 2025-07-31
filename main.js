@@ -355,7 +355,7 @@ class FullScreenLightboxGallery {
             ],
             'digital-marketing': [
                 {
-                    title: 'Brand Campaign Strategy',
+                    title: 'Marketing Dashboard',
                     subtitle: '360° Digital Marketing',
                     description: '360° digital marketing campaign that increased brand awareness by 400% and generated 250% ROI. Included social media strategy, content marketing, and influencer partnerships.',
                     images: [
@@ -365,6 +365,37 @@ class FullScreenLightboxGallery {
                     ],
                     caseStudyUrl: 'https://muhammadluqman-99.github.io/dm-dashboard/',
                     resultsUrl: 'https://muhammadluqman-99.github.io/dm-dashboard/'
+                },
+                {
+                    title: 'Marketing Dashboard (Tiktok)',
+                    subtitle: '360° Digital Marketing',
+                    description: '360° digital marketing campaign that increased brand awareness by 400% and generated 250% ROI. Included social media strategy, content marketing, and influencer partnerships.',
+                    images: [
+                        './portfolio/marketing4-tiktok.png',
+                        './portfolio/marketing5-tiktok1.png',
+                        './portfolio/marketing7-tiktok32.png',
+                    ],
+                   
+                },
+                {
+                    title: 'Marketing Dashboard (Shopee)',
+                    subtitle: '360° Digital Marketing',
+                    description: '360° digital marketing campaign that increased brand awareness by 400% and generated 250% ROI. Included social media strategy, content marketing, and influencer partnerships.',
+                    images: [
+                        './portfolio/marketing6-shopee.png',
+                        './portfolio/marketing8-shopee1.png',
+                    ],
+                   
+                },
+                {
+                    title: 'Marketing Dashboard (Facebook)',
+                    subtitle: '360° Digital Marketing',
+                    description: '360° digital marketing campaign that increased brand awareness by 400% and generated 250% ROI. Included social media strategy, content marketing, and influencer partnerships.',
+                    images: [
+                        './portfolio/marketing9.jpg',
+                        './portfolio/marketing10.jpg',
+                    ],
+                   
                 },
                 
             ],
@@ -493,18 +524,18 @@ class FullScreenLightboxGallery {
             ],
             'mobile-app': [
                 {
-                    title: 'Fitness Tracking App',
+                    title: 'Wonderpark App',
                     subtitle: 'Cross-platform Mobile App',
-                    description: 'Cross-platform mobile application with workout tracking, nutrition planning, and social features. Over 10K+ downloads with 4.8-star rating on app stores.',
+                    description: 'Cross-platform mobile application with ticketing.',
                     images: [
-                        'https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1200',
-                        'https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1200',
-                        'https://images.pexels.com/photos/326424/pexels-photo-326424.jpeg?auto=compress&cs=tinysrgb&w=1200',
-                        'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1200',
-                        'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1200',
-                        'https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200',
-                        'https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1200',
-                        'https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1200'
+                        './portfolio/loginpage.PNG',
+                        './portfolio/homepage.PNG',
+                        './portfolio/confirmorderpage.PNG',
+                        './portfolio/ewalletpage.PNG',
+                        './portfolio/orderpage.PNG',
+                        './portfolio/pointpage.PNG',
+                        './portfolio/productspage.PNG',
+
                     ],
                     appStoreUrl: 'https://apps.apple.com/example-fitness',
                     playStoreUrl: 'https://play.google.com/store/apps/example-fitness'
